@@ -1,4 +1,4 @@
-## MAME24 Theme for Retropie (5:4)
+## HB-MAME-24 Theme for Retropie (5:4)
 Official RetroPie forum topic: xxxxxxxxxxxxxxxx
 
 ## License
