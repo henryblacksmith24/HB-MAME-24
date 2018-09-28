@@ -15,7 +15,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 **NonCommercial** - You may ***NOT*** use the material for commercial purposes.
 
 ## Thanks & Attribution
-- Theme.xml & Readme.md based on: Nico La Rosa (Chicuelo Theme)
+- Readme.md based on: Nico La Rosa (Chicuelo Theme)
 - Arrows Created by Freepik
 - Selector base by Ruckage
 
