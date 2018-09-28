@@ -5,7 +5,9 @@ This theme is designed for a 5:4 aspect ratio.
 Adjust the following options within EmulationStation:
 - UI SETTINGS > CAROUSEL TRANSITIONS: NONE
 - UI SETTINGS > TRANSITION STYLE: INSTANT
+
 There are no adaptation plans to 16:9.
+
 There are no launch plans for Recalbox.
 
 ## License
