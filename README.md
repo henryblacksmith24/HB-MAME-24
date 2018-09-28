@@ -1,6 +1,4 @@
 ## HB-MAME-24 Theme for Retropie (5:4)
-Official RetroPie forum topic: xxxxxxxxxxxxxxxx
-
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Licence")
