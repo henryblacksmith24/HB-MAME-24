@@ -7,7 +7,7 @@ Adjust the following options within EmulationStation:
 - UI SETTINGS > TRANSITION STYLE: INSTANT
 
 There are no adaptation plans to 16:9.
-There are no launch plans for Retroarch.
+There are no launch plans for Recalbox.
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
