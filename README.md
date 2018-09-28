@@ -1,4 +1,4 @@
-## Henry Blacksmith: MAME24 Theme for Retropie (5:4)
+## MAME24 Theme for Retropie (5:4)
 Official RetroPie forum topic: xxxxxxxxxxxxxxxx
 
 ## License
