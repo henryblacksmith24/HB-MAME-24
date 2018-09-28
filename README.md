@@ -107,7 +107,7 @@ Adjust the following options within EmulationStation:
 - Wonderswan Color
 - ZX Spectrum
 
-## Others / Altres
+## Others
 There are no launch plans for Retroarch.
 There are no adaptation plans to 16:9.
 
