@@ -39,6 +39,9 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 - Last Played Collection
 - Commodore 64
 - Capcom Collection
+- CPS 1
+- CPS 2
+- CPS 3
 - Coco
 - Colecovision
 - Custom Collections
