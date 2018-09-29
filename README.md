@@ -114,3 +114,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Screenshots
 
+![CAPTURA1](_dades/demo_images/Captura.JPG?raw=true)
+![CAPTURA2](_dades/demo_images/Captura2.JPG?raw=true)
+![CAPTURA3](_dades/demo_images/Captura3.JPG?raw=true)
+![CAPTURA4](_dades/demo_images/Captura4.JPG?raw=true)
