@@ -2,6 +2,8 @@
 ## Options for correct viewing 
 This theme is designed for a 5:4 aspect ratio.
 
+If you want to invert the position of the gamelist, rename theme_left.xml to theme.xml
+
 Adjust the following options within EmulationStation:
 - UI SETTINGS > CAROUSEL TRANSITIONS: NONE
 - UI SETTINGS > TRANSITION STYLE: INSTANT
@@ -9,6 +11,8 @@ Adjust the following options within EmulationStation:
 There are no adaptation plans to 16:9.
 
 There are no launch plans for Recalbox.
+
+
 
 ## License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
