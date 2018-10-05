@@ -1,6 +1,6 @@
-## HB-MAME-24 Theme for Retropie (5:4)
+## HB-MAME-24 Theme for Retropie (4:3)
 ## Options for correct viewing 
-This theme is designed for a 5:4 aspect ratio.
+This theme is designed for a 4:3 aspect ratio.
 
 If you want to invert the position of the gamelist, rename theme_left.xml to theme.xml
 
